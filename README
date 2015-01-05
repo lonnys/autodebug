@@ -1,5 +1,0 @@
-用法
-	vim ~/.bashrc
-	export PYTHONPATH=$PYTHONPATH:autopdb_path
-	source ~/.bashrc
-	python -m autopdb xxx.py
